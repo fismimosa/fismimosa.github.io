@@ -53,7 +53,7 @@ profiles:
       <p>2nd year PhD Student</p>
   - align: right
     image: Cascione1.png
-    content: about_riccotti.md
+    content: about_cascione.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Alessio Cascione  </p>
