@@ -52,7 +52,7 @@ profiles:
       <p>Andrea Fedele  </p>
       <p>2nd year PhD Student</p>
   - align: right
-    image: Cascione1.png
+    image: Cascione1.jpeg
     content: about_cascione.md
     image_circular: false # crops the image to make it circular
     more_info: |
