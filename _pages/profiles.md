@@ -16,57 +16,46 @@ profiles:
     more_info: |
       <p>Riccardo Guidotti</p>
       <p><em>Assistant Professor</em></p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
   - align: right
     image: spinnato.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Francesco Spinnato</p>
-      <p><em>Researcher</em></p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
+      <p><em>PostDoc</em></p>
   - align: right
     image: Cinquini1.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Martina Cinquini</p>
-      <p><em>PhD Student</em></p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
+      <p>Martina Cinquini   </p>
+      <p><em>PostDoc</em></p>
   - align: right
     image: marchiorimanerba.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Marta Marchiori Manerba</p>
-      <p><em>PhD Student</em></p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
+      <p><em>PostDoc</em></p>
   - align: right
     image: Landi1.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Cristiano Landi</p>
-      <p>PhD Student</p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
+      <p>Cristiano Landi  </p>
+      <p>2nd year PhD Student</p>
   - align: right
     image: Fedele1.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Andrea Fedele</p>
-      <p>PhD Student</p>
-      <p>Department of Computer Science</p>
-      <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>
+      <p>Andrea Fedele  </p>
+      <p>2nd year PhD Student</p>
+  - align: right
+    image: Cascione1.png
+    content: about_riccotti.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Alessio Cascione  </p>
+      <p>1st year PhD Student</p>
 ---
