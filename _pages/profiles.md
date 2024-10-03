@@ -28,7 +28,7 @@ profiles:
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Martina Cinquini   </p>
+      <p>Martina Cinquini</p> <br>
       <p><em>PostDoc</em></p>
   - align: right
     image: marchiorimanerba.png
@@ -42,20 +42,20 @@ profiles:
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Cristiano Landi  </p>
-      <p>2nd year PhD Student</p>
+      <p>Cristiano Landi</p><br>
+      <p>PhD Student (2nd year)</p>
   - align: right
     image: Fedele1.png
     content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
-      <p>Andrea Fedele  </p>
-      <p>2nd year PhD Student</p>
+      <p>Andrea Fedele</p><br>
+      <p>PhD Student (2nd year)</p>
   - align: right
     image: Cascione1.jpeg
     content: about_cascione.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Alessio Cascione  </p>
-      <p>1st year PhD Student</p>
+      <p>PhD Student (1st year)</p>
 ---
