@@ -49,7 +49,7 @@ profiles:
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
       <p>Pisa (Italy)</p>
-   - align: right
+  - align: right
     image: Landi1.png
     content: about_landi.md
     image_circular: false # crops the image to make it circular
@@ -58,7 +58,7 @@ profiles:
       <p>PhD Student</p>
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
-      <p>Pisa (Italy)</p>ù
+      <p>Pisa (Italy)</p>
   - align: right
     image: Fedele1.png
     content: about_fedele.md
