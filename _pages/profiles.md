@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Riccardo Guidotti</p>
-      <p>Assistant Professor</p>
+      <p><em>Assistant Professor</em></p>
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
       <p>Pisa (Italy)</p>
@@ -25,7 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Francesco Spinnato</p>
-      <p>Researcher</p>
+      <p><em>Researcher</em></p>
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
       <p>Pisa (Italy)</p>
@@ -35,7 +35,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Martina Cinquini</p>
-      <p>PhD Student</p>
+      <p><em>PhD Student</em></p>
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
       <p>Pisa (Italy)</p>
@@ -45,7 +45,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Marta Marchiori Manerba</p>
-      <p>PhD Student</p>
+      <p><em>PhD Student</em></p>
       <p>Department of Computer Science</p>
       <p>Largo B. Pontecorvo 3</p>
       <p>Pisa (Italy)</p>
