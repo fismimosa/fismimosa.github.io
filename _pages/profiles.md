@@ -21,7 +21,7 @@ profiles:
       <p>Pisa (Italy)</p>
   - align: right
     image: spinnato.png
-    content: about_spinnato.md
+    content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Francesco Spinnato</p>
@@ -31,7 +31,7 @@ profiles:
       <p>Pisa (Italy)</p>
   - align: right
     image: Cinquini1.png
-    content: about_cinquini.md
+    content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Martina Cinquini</p>
@@ -41,7 +41,7 @@ profiles:
       <p>Pisa (Italy)</p>
   - align: right
     image: marchiorimanerba.png
-    content: about_marchiori.md
+    content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Marta Marchiori Manerba</p>
@@ -51,7 +51,7 @@ profiles:
       <p>Pisa (Italy)</p>
   - align: right
     image: Landi1.png
-    content: about_landi.md
+    content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Cristiano Landi</p>
@@ -61,7 +61,7 @@ profiles:
       <p>Pisa (Italy)</p>
   - align: right
     image: Fedele1.png
-    content: about_fedele.md
+    content: about_riccotti.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Andrea Fedele</p>
