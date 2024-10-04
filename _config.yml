@@ -4,7 +4,7 @@
 
 title: MIMOSA # the website title (if blank, full name will be used instead)
 first_name: Riccardo
-middle_name: 
+middle_name:
 last_name: Guidotti
 email: riccardo.guidotti@unipi.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
