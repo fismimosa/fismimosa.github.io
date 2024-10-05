@@ -14,8 +14,8 @@ The website includes information on:
 
 - Project objectives and scientific context
 - Research activities and work packages
-- Team members 
-- Publications 
+- Team members
+- Publications
 - News and events
 - Contact information
 
@@ -33,9 +33,10 @@ To run this website locally:
 This website is maintained by the MIMOSA project team. If you notice any issues or have suggestions for improvement, please open an issue in this repository.
 
 ## Contact
+
 For more information about the MIMOSA project, please contact:
 
 Prof. Riccardo Guidotti  
-Computer Science Department, 
+Computer Science Department,
 University of Pisa, Italy  
 [riccardo.guidotti@unipi.it](mailto:riccardo.guidotti@unipi.it)
