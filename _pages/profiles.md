@@ -22,7 +22,7 @@ profiles:
   #   more_info: |
   #     <p>Francesco Spinnato</p><br>
   #     <p><em>PostDoc</em></p>
-  
+
   - align: left
     image: profiles/Cinquini.png
     content: info_people/about_cinquini.md
@@ -30,7 +30,7 @@ profiles:
     more_info: |
       <p>Martina Cinquini</p><br>
       <p><em>PhD Student (3rd year)</em></p>
-      
+
   - align: right
     image: profiles/Marchiorimanerba.png
     content: info_people/about_marchiori.md
