@@ -18,35 +18,35 @@ profiles:
       <p><em>Assistant Professor</em></p>
   - align: right
     image: assets/img/profiles/Spinnato.png
-    content: about_spinnato.md
+    content: info_people/about_spinnato.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Francesco Spinnato</p><br>
       <p><em>PostDoc</em></p>
   - align: right
     image: assets/img/profiles/Cinquini.png
-    content: about_cinquini.md
+    content: info_people/about_cinquini.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Martina Cinquini</p> <br>
       <p><em>PostDoc</em></p>
   - align: right
     image: assets/img/profiles/Marchiorimanerba.png
-    content: about_marchiori.md
+    content: info_people/about_marchiori.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Marta Marchiori Manerba</p>
       <p><em>PostDoc</em></p>
   - align: right
     image: assets/img/profiles/Landi.png
-    content: about_landi.md
+    content: info_people/about_landi.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Cristiano Landi</p><br>
       <p>PhD Student (2nd year)</p>
   - align: right
     image: assets/img/profiles/Fedele.png
-    content: about_fedele.md
+    content: info_people/about_fedele.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Andrea Fedele</p><br>
