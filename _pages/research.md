@@ -11,6 +11,9 @@ nav_order: 3
 
 Define a methodology to extract interpretable, accurate, and ethically-responsible predictive models for decision-support systems.
 
+![Scientific contributions illustration]({{ site.baseurl }}/assets/img/workflow*mimosa.png){: style="display: block; margin-left: auto; margin-right: auto; width: 800px;"}
+\_Figure 1: MIMOSA Example*{: style="display: block; text-align: center;"}
+
 ## Scientific Contributions
 
 Design of a methodological framework for generating and Mining Interpretable Models explOiting Sophisticated incomprehensible Algorithms.

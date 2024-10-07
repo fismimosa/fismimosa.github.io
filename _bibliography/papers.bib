@@ -1,17 +1,58 @@
 ---
 ---
 
-@article{guidotti2024generative, 
-abbr={AAAI},
-title={Generative Model for Decision Trees}, 
-volume={38}, 
-url={https://ojs.aaai.org/index.php/AAAI/article/view/30104}, 
-doi={10.1609/aaai.v38i19.30104}, 
-abstract={Decision trees are among the most popular supervised models due to their interpretability and knowledge representation resembling human reasoning. Commonly-used decision tree induction algorithms are based on greedy top-down strategies. Although these approaches are known to be an efficient heuristic, the resulting trees are only locally optimal and tend to have overly complex structures. On the other hand, optimal decision tree algorithms attempt to create an entire decision tree at once to achieve global optimality. We place our proposal between these approaches by designing a generative model for decision trees. Our method first learns a latent decision tree space through a variational architecture using pre-trained decision tree models. Then, it adopts a genetic procedure to explore such latent space to find a compact decision tree with good predictive performance. We compare our proposal against classical tree induction methods, optimal approaches, and ensemble models. The results show that our proposal can generate accurate and shallow, i.e., interpretable, decision trees.}, number={19}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-author={Guidotti, Riccardo and Monreale, Anna and Setzu, Mattia and Volpi, Giulia}, 
-year={2024}, month={Mar.}, 
-pages={21116-21124}, 
-selected={true}, 
-bibtex_show={true}
+@article{berti2024role,
+  abbr={Quantum},
+  title={The role of encodings and distance metrics for the quantum nearest neighbor},
+  abstract={Over the past few years, we observed a rethinking of classical artificial intelligence algorithms from a quantum computing perspective. This trend is driven by the peculiar properties of quantum mechanics, which offer the potential to enhance artificial intelligence capabilities, enabling it to surpass the constraints of classical computing. However, redesigning classical algorithms into their quantum equivalents is not straightforward and poses numerous challenges. In this study, we analyze in-depth two orthogonal designs of the quantum K-nearest neighbor classifier. In particular, we show two solutions based on amplitude encoding and basis encoding of data, respectively. These two types of encoding impact the overall structure of the respective algorithms, which employ different distance metrics and show different performances. By breaking down each quantum algorithm, we clarify and compare implementation aspects ranging from data preparation to classification. Eventually, we discuss the difficulties associated with data preparation, the theoretical advantage of quantum algorithms, and their impact on performance with respect to the classical counterpart.},
+  author={Berti, Alessandro and Bernasconi, Anna and Del Corso, Gianna M and Guidotti, Riccardo},
+  journal={Quantum Machine Intelligence},
+  volume={6},
+  number={2},
+  pages={62},
+  year={2024},
+  publisher={Springer},
+  selected={true},
+  bibtex_show={true}
 }
+
+@article{spinnato2024fast,
+  abbr={IEEE},
+  title={Fast, Interpretable and Deterministic Time Series Classification with a Bag-Of-Receptive-Fields},
+  author={Spinnato, Francesco and Guidotti, Riccardo and Monreale, Anna and Nanni, Mirco},
+  abstract={The current trend in the literature on Time Series Classification is to develop increasingly accurate algorithms by combining multiple models in ensemble hybrids, representing time series in complex and expressive feature spaces, and extracting features from different representations of the same time series. As a consequence of this focus on predictive performance, the best time series classifiers are black-box models, which are not understandable from a human standpoint. Even the approaches that are regarded as interpretable, such as shapelet-based ones, rely on randomization to maintain computational efficiency. This poses challenges for interpretability, as the explanation can change from run to run. Given these limitations, we propose the Bag-Of-Receptive-Field (BORF), a fast, interpretable, and deterministic time series transform. Building upon the classical Bag-Of-Patterns, we bridge the gap between convolutional operators and discretization, enhancing the Symbolic Aggregate Approximation (SAX) with dilation and stride, which can more effectively capture temporal patterns at multiple scales. We propose an algorithmic speedup that reduces the time complexity associated with SAX-based classifiers, allowing the extension of the Bag-Of-Patterns to the more flexible Bag-Of-Receptive-Fields, represented as a sparse multivariate tensor. The empirical results from testing our proposal on more than 150 univariate and multivariate classification datasets demonstrate good accuracy and great computational efficiency compared to traditional SAX-based methods and state-of-the-art time series classifiers, while providing easy-to-understand explanations.},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{cascione2024data,
+  abbr={ECML},
+  title={Data-Agnostic Pivotal Instances Selection for Decision-Making Models},
+  author={Cascione, Alessio and Setzu, Mattia and Guidotti, Riccardo},
+  abstract={As decision-making processes become increasingly complex, machine learning tools have become essential resources for tackling business and social issues. However, many methodologies rely on complex models that experts and everyday users cannot really interpret or understand. This is why constructing interpretable models is crucial. Humans typically make decisions by comparing the case at hand with a few exemplary and representative cases imprinted in their minds. Our objective is to design an approach that can select such exemplary cases, which we call pivots, to build an interpretable predictive model. To this aim, we propose a hierarchical and interpretable pivot selection model inspired by Decision Trees, and based on the similarity between pivots and input instances. Such a model can be used both as a pivot selection method, and as a standalone predictive model. By design, our proposal can be applied to any data type, as we can exploit pre-trained networks for data transformation. Through experiments on various datasets of tabular data, texts, images, and time series, we have demonstrated the superiority of our proposal compared to naive alternatives and state-of-the-art instance selectors, while minimizing the model complexity, i.e., the number of pivots identified.},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={367--386},
+  year={2024},
+  organization={Springer},
+  selected={true},
+  bibtex_show={true}
+}
+
+@article{guidotti2024generative,
+    abbr={AAAI},
+    title={Generative Model for Decision Trees},
+    volume={38},
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/30104},
+    doi={10.1609/aaai.v38i19.30104},
+    abstract={Decision trees are among the most popular supervised models due to their interpretability and knowledge representation resembling human reasoning. Commonly-used decision tree induction algorithms are based on greedy top-down strategies. Although these approaches are known to be an efficient heuristic, the resulting trees are only locally optimal and tend to have overly complex structures. On the other hand, optimal decision tree algorithms attempt to create an entire decision tree at once to achieve global optimality. We place our proposal between these approaches by designing a generative model for decision trees. Our method first learns a latent decision tree space through a variational architecture using pre-trained decision tree models. Then, it adopts a genetic procedure to explore such latent space to find a compact decision tree with good predictive performance. We compare our proposal against classical tree induction methods, optimal approaches, and ensemble models. The results show that our proposal can generate accurate and shallow, i.e., interpretable, decision trees.}, number={19}, journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+    author={Guidotti, Riccardo and Monreale, Anna and Setzu, Mattia and Volpi, Giulia},
+    year={2024}, month={Mar.},
+    pages={21116-21124},
+    selected={true},
+    bibtex_show={true}
+}
+
 
