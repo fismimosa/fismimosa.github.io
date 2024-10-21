@@ -11,8 +11,10 @@ nav_order: 3
 
 Define a methodology to extract interpretable, accurate, and ethically-responsible predictive models for decision-support systems.
 
+<div style="text-align: center;">
 ![Scientific contributions illustration]({{ site.baseurl }}/assets/img/workflow_mimosa.png){: style="display: block; margin-left: auto; margin-right: auto; width: 800px;"}
-\Figure 1: MIMOSA's Workflow
+<p><strong>Figure 1:</strong> MIMOSA's Workflow</p>
+</div>
 
 ## Scientific Contributions
 
