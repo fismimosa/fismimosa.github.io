@@ -15,13 +15,13 @@ profiles:
       <p>Riccardo Guidotti</p>
       <p><em>Assistant Professor</em></p>
 
-   - align: left
-     image: profiles/Spinnato.jpg
-     content: info_people/about_spinnato.md
-     image_circular: false # crops the image to make it circular
-     more_info: |
-       <p>Francesco Spinnato</p><br>
-       <p><em>PostDoc</em></p>
+  - align: left
+    image: profiles/Spinnato.jpg
+    content: info_people/about_spinnato.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Francesco Spinnato</p><br>
+      <p><em>PostDoc</em></p>
 
   - align: right
     image: profiles/Cinquini.png
@@ -44,16 +44,16 @@ profiles:
     content: info_people/about_landi.md
     image_circular: false # crops the image to make it circular
     more_info: |
-       <p>Cristiano Landi</p><br>
-       <p><em>PhD Student (2nd year)</em></p>
+      <p>Cristiano Landi</p><br>
+      <p><em>PhD Student (2nd year)</em></p>
 
   - align: left
     image: profiles/Fedele.png
     content: info_people/about_fedele.md
     image_circular: false # crops the image to make it circular
     more_info: |
-       <p>Andrea Fedele</p><br>
-       <p><em>PhD Student (2nd year)</em></p>
+      <p>Andrea Fedele</p><br>
+      <p><em>PhD Student (2nd year)</em></p>
 
   - align: right
     image: profiles/Cascione.jpeg
@@ -66,6 +66,6 @@ profiles:
   - align: left
     content: info_people/about_setzu.md
     more_info: |
-       <p>Mattia Setzu</p><br>
-       <p><em>Researcher</em></p>    
+      <p>Mattia Setzu</p><br>
+      <p><em>Researcher</em></p>    
 ---
