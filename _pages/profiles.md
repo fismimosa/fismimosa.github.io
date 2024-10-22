@@ -45,7 +45,7 @@ profiles:
      image_circular: false # crops the image to make it circular
      more_info: |
        <p>Cristiano Landi</p><br>
-       <p>PhD Student (2nd year)</p>
+       <p><em>PhD Student (2nd year)</em></p>
 
    - align: left
      image: profiles/Fedele.png
@@ -53,7 +53,7 @@ profiles:
      image_circular: false # crops the image to make it circular
      more_info: |
        <p>Andrea Fedele</p><br>
-       <p>PhD Student (2nd year)</p>
+       <p><em>PhD Student (2nd year)</em></p>
 
   - align: right
     image: profiles/Cascione.jpeg
@@ -61,10 +61,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Alessio Cascione</p><br>
-      <p>PhD Student (1st year)</p>
+      <p><em>PhD Student (1st year)</em></p>
 
    - align: left
      content: info_people/about_setzu.md
+     more_info: |
        <p>Mattia Setzu</p><br>
        <p><em>Researcher</em></p>
        
