@@ -67,6 +67,5 @@ profiles:
      content: info_people/about_setzu.md
      more_info: |
        <p>Mattia Setzu</p><br>
-       <p><em>Researcher</em></p>
-       
+       <p><em>Researcher</em></p>    
 ---
