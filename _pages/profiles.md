@@ -39,19 +39,19 @@ profiles:
       <p>Marta Marchiori Manerba</p>
       <p><em>PhD Student (3rd year)</em></p>
 
-   - align: right
-     image: profiles/Landi.png
-     content: info_people/about_landi.md
-     image_circular: false # crops the image to make it circular
-     more_info: |
+  - align: right
+    image: profiles/Landi.png
+    content: info_people/about_landi.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
        <p>Cristiano Landi</p><br>
        <p><em>PhD Student (2nd year)</em></p>
 
-   - align: left
-     image: profiles/Fedele.png
-     content: info_people/about_fedele.md
-     image_circular: false # crops the image to make it circular
-     more_info: |
+  - align: left
+    image: profiles/Fedele.png
+    content: info_people/about_fedele.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
        <p>Andrea Fedele</p><br>
        <p><em>PhD Student (2nd year)</em></p>
 
@@ -63,9 +63,9 @@ profiles:
       <p>Alessio Cascione</p><br>
       <p><em>PhD Student (1st year)</em></p>
 
-   - align: left
-     content: info_people/about_setzu.md
-     more_info: |
+  - align: left
+    content: info_people/about_setzu.md
+    more_info: |
        <p>Mattia Setzu</p><br>
        <p><em>Researcher</em></p>    
 ---
