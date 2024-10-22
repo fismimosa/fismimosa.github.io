@@ -64,10 +64,8 @@ profiles:
       <p>PhD Student (1st year)</p>
 
    - align: left
-     # image: profiles/Spinnato.jpg
-     content: info_people/about_setzy.md
-     # image_circular: false # crops the image to make it circular
-     more_info: |
+     content: info_people/about_setzu.md
        <p>Mattia Setzu</p><br>
        <p><em>Researcher</em></p>
+       
 ---
