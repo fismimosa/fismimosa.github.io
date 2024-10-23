@@ -24,6 +24,7 @@ profiles:
       <p><em>Associate Professor</em></p>
 
   - align: right
+    image: profiles/Setzu.jpeg
     content: info_people/about_setzu.md
     more_info: |
       <p>Mattia Setzu</p><br>
