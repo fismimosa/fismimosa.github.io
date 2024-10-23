@@ -16,6 +16,20 @@ profiles:
       <p><em>Assistant Professor</em></p>
 
   - align: left
+    image: profiles/Monreale.jpg
+    content: info_people/about_monreale.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Anna Monreale</p>
+      <p><em>Associate Professor</em></p>
+
+  - align: right
+    content: info_people/about_setzu.md
+    more_info: |
+      <p>Mattia Setzu</p><br>
+      <p><em>Researcher</em></p>
+
+  - align: left
     image: profiles/Spinnato.jpg
     content: info_people/about_spinnato.md
     image_circular: false # crops the image to make it circular
@@ -40,19 +54,19 @@ profiles:
       <p><em>PhD Student (3rd year)</em></p>
 
   - align: right
-    image: profiles/Landi.png
-    content: info_people/about_landi.md
-    image_circular: false # crops the image to make it circular
-    more_info: |
-      <p>Cristiano Landi</p><br>
-      <p><em>PhD Student (2nd year)</em></p>
-
-  - align: left
     image: profiles/Fedele.png
     content: info_people/about_fedele.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Andrea Fedele</p><br>
+      <p><em>PhD Student (2nd year)</em></p>
+
+  - align: left
+    image: profiles/Landi.png
+    content: info_people/about_landi.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Cristiano Landi</p><br>
       <p><em>PhD Student (2nd year)</em></p>
 
   - align: right
@@ -62,10 +76,4 @@ profiles:
     more_info: |
       <p>Alessio Cascione</p><br>
       <p><em>PhD Student (1st year)</em></p>
-
-  - align: left
-    content: info_people/about_setzu.md
-    more_info: |
-      <p>Mattia Setzu</p><br>
-      <p><em>Researcher</em></p>    
 ---
