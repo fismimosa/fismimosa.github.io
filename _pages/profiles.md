@@ -22,7 +22,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Martina Cinquini</p><br>
-      <p><em>Research Fellow</em></p>
+      <p><em>MIMOSA Research Fellow</em></p>
 
   - align: right
     image: profiles/Marchiorimanerba.png
@@ -30,7 +30,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Marta Marchiori Manerba</p>
-      <p><em>Research Fellow</em></p>
+      <p><em>MIMOSA Research Fellow</em></p>
 
   - align: left
     image: profiles/Cascione.jpeg
@@ -38,7 +38,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Alessio Cascione</p><br>
-      <p><em>PhD Student (1st year)</em></p>
+      <p><em>MIMOSA PhD Student (1st year)</em></p>
 
   - align: right
     image: profiles/Monreale.jpg
@@ -53,7 +53,7 @@ profiles:
     content: info_people/about_setzu.md
     more_info: |
       <p>Mattia Setzu</p><br>
-      <p><em>Researcher</em></p>
+      <p><em>Associate Professor</em></p>
 
   - align: right
     image: profiles/Spinnato.jpg
@@ -69,7 +69,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Andrea Fedele</p><br>
-      <p><em>PhD Student (2nd year)</em></p>
+      <p><em>PhD Student (3rd year)</em></p>
 
   - align: right
     image: profiles/Landi.png
@@ -77,5 +77,5 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Cristiano Landi</p><br>
-      <p><em>PhD Student (2nd year)</em></p>
+      <p><em>PhD Student (3rd year)</em></p>
 ---
