@@ -31,7 +31,7 @@ profiles:
     more_info: |
       <p>Marta Marchiori Manerba</p>
       <p><em>Research Fellow</em></p>
-      
+
   - align: left
     image: profiles/Cascione.jpeg
     content: info_people/about_cascione.md
