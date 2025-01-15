@@ -78,4 +78,20 @@ profiles:
     more_info: |
       <p>Cristiano Landi</p><br>
       <p><em>PhD Student (3rd year)</em></p>
+
+  - align: left
+    image: profiles/Berti.jpg
+    content: info_people/about_berti.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Alessandro Berti</p><br>
+      <p><em>Post-hoc Researcher</em></p>
+
+  - align: right
+    image: profiles/Poggiali.jepg
+    content: info_people/about_poggiali.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Alessandro Poggiali</p><br>
+      <p><em>PhD Student (2nd year)</em></p>
 ---
