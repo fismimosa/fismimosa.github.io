@@ -88,7 +88,7 @@ profiles:
       <p><em>Post-hoc Researcher</em></p>
 
   - align: right
-    image: profiles/Poggiali.jepg
+    image: profiles/Poggiali.jpeg
     content: info_people/about_poggiali.md
     image_circular: false # crops the image to make it circular
     more_info: |
