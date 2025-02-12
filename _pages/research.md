@@ -61,8 +61,8 @@ The ambition of MIMOSA is to provide progress in AI by developing a family of pr
   - WP3 Refinement of Models with Ethical Properties [WP3 aims at refining interpretable-by-design models to account for desired additional]
 - C4 Demonstrate the effectiveness of the interpretable models generated
   properties such as fairness, privacy, causality, etc.
-  _ WP4 Real Case Studies [WP4 tests the effectiveness of the approaches developed in real case studies]
-  _ WP5 Experimental Evaluation, Software Development, Dissemination [WP5 describes the evaluation, software development, and dissemination strategy]
+  - WP4 Real Case Studies [WP4 tests the effectiveness of the approaches developed in real case studies]
+  - WP5 Experimental Evaluation, Software Development, Dissemination [WP5 describes the evaluation, software development, and dissemination strategy]
 
 
 ## Scientific Board
