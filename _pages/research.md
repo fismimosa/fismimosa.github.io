@@ -64,12 +64,12 @@ The ambition of MIMOSA is to provide progress in AI by developing a family of pr
   - WP4 Real Case Studies [WP4 tests the effectiveness of the approaches developed in real case studies]
   - WP5 Experimental Evaluation, Software Development, Dissemination [WP5 describes the evaluation, software development, and dissemination strategy]
 
-
 ## Scientific Board
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
 
 {% for member in site.data.scientific_board %}
+
   <div style="width: 150px;">
     <img src="{{ member.photo }}" alt="{{ member.name }}" 
          style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%; margin-bottom: 10px;">
@@ -79,8 +79,6 @@ The ambition of MIMOSA is to provide progress in AI by developing a family of pr
 {% endfor %}
 
 </div>
-
-
 
 ## Acks
 
