@@ -1,5 +1,36 @@
 ---
 ---
+@inproceedings{gagliardi2025region,
+  abbr={Machine Learning},
+  title={Region-aware Minimal Counterfactual Rules for Model-agnostic Explainable Classification},
+  author={Gagliardi, Guido and Alfeo, Antonio Luca and Guidotti, Riccardo and Cimino, Mario GCA},
+  journal={Machine Learning},
+  volume={114},
+  number={10},
+  pages={225},
+  year={2025},
+  publisher={Springer},
+  url = {https://doi.org/10.1007/s10994-025-06847-5}
+  abstract={The increasing demand for transparency in machine learning has spurred the development of techniques that provide faithful explanations for complex black-box models. In this work, we introduce RaMiCo (Region Aware Minimal Counterfactual Rules), a model-agnostic method that extracts global counterfactual rules by mining instances from diverse regions of the input space. RaMiCo focuses on single-feature substitutions to generate minimal and region-aware rules that encapsulate the overall decision-making process of the target model. These global rules can be further localised to specific input instances, enabling users to obtain tailored explanations for individual predictions. Comprehensive experiments on multiple benchmark datasets demonstrate that RaMiCo achieves competitive fidelity in replicating black-box behaviour and exhibits high coverage in capturing the intrinsic structure of white-box classifiers. RaMiCo supports the development of trustworthy and secure machine learning systems by providing transparent, human-understandable explanations in the form of concise global rules. This design enables users to verify and inspect the model’s decision logic, reducing the risk of hidden biases, unintended behaviours, or adversarial exploitation. These features make RaMiCo particularly suitable for applications where the reliability, safety, and verifiability of automated decisions are essential.},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{cinquini2025safegen,
+  abbr={Machine Learning},
+  title={SafeGen: safeguarding privacy and fairness through a genetic method},
+  author={Cinquini, Martina and Marchiori Manerba, Marta and Mazzoni, Federico and Pratesi, Francesca and Guidotti, Riccardo},
+  journal={Machine Learning},
+  volume={114},
+  number={10},
+  pages={227},
+  year={2025},
+  publisher={Springer},
+  url = {https://doi.org/10.1007/s10994-025-06835-9}
+  abstract={To ensure that Machine Learning systems produce unharmful outcomes, pursuing a joint optimization of performance and ethical profiles such as privacy and fairness is crucial. However, jointly optimizing these two ethical dimensions while maintaining predictive accuracy remains a fundamental challenge. Indeed, privacy-preserving techniques may worsen fairness and restrain the model’s ability to learn accurate statistical patterns, while data mitigation techniques may inadvertently compromise privacy. Aiming to bridge this gap, we propose safeGen, a preprocessing fairness enhancing and privacy-preserving method for tabular data. SafeGen employs synthetic data generation through a genetic algorithm to ensure that sensitive attributes are protected while maintaining the necessary statistical properties. We assess our method across multiple datasets, comparing it against state-of-the-art privacy-preserving and fairness approaches through a threefold evaluation: privacy preservation, fairness enhancement, and generated data plausibility. Through extensive experiments, we demonstrate that SafeGen consistently achieves strong anonymization while preserving or improving dataset fairness across several benchmarks. Additionally, through hybrid privacy-fairness constraints and the use of a genetic synthesizer, SafeGen ensures the plausibility of synthetic records while minimizing discrimination. Our findings demonstrate that modeling fairness and privacy within a unified generative method yields significantly better outcomes than addressing these constraints separately, reinforcing the importance of integrated approaches when multiple ethical objectives must be simultaneously satisfied.},
+  selected={true},
+  bibtex_show={true}
+}
 
 @inproceedings{cinquini2025practical,
   abbr={AAAI},
@@ -39,6 +70,53 @@
   bibtex_show={true}
 }
 
+@article{cinquini2025bias,
+  abbr={IEEE},
+  author={Cinquini, Martina and Makhlouf, Karima and Zhioua, Sami and Palamidessi, Catuscia and Guidotti, Riccardo},
+  journal={IEEE Access},
+  title={A Bias Injection Technique to Assess the Resilience of Causal Discovery Methods},
+  abstract={Causal discovery (CD) algorithms are increasingly applied to socially and ethically sensitive domains. However, their evaluation under realistic conditions remains challenging due to the scarcity of real-world datasets annotated with ground-truth causal structures. Whereas synthetic data generators support controlled benchmarking, they often overlook forms of bias, such as dependencies involving sensitive attributes, which may significantly affect the observed distribution and compromise the trustworthiness of downstream analysis. This paper introduces a novel synthetic data generation framework that enables controlled bias injection while preserving the causal relationships specified in a ground-truth causal graph. The framework aims to evaluate the reliability of CD methods by examining the impact of varying bias levels and outcome binarization thresholds. Experimental results show that even moderate bias levels can lead CD approaches to fail to correctly infer causal links, particularly those connecting sensitive attributes to decision outcomes. These findings underscore the need for expert validation and highlight the limitations of current CD methods in fairness-critical applications. Our proposal thus provides an essential tool for benchmarking and improving CD algorithms in biased, real-world data settings.},
+  year={2025},
+  volume={13},
+  number={},
+  pages={97376-97391},
+  keywords={Synthetic data;Data models;Europe;Resilience;Mathematical models;Generators;Benchmark testing;Reliability;Prevention and mitigation;Technological innovation;Fairness;bias;synthetic data generation;machine learning;causal discovery},
+  doi={10.1109/ACCESS.2025.3573201},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{cascioneSGCG24,
+  abbr={DS},
+  author       = {Alessio Cascione and
+                  Mattia Setzu and
+                  Federico A. Galatolo and
+                  Mario G. C. A. Cimino and
+                  Riccardo Guidotti},
+  abstract     = {Decision-making processes in healthcare can be highly complex and challenging. Machine Learning tools offer significant potential to assist in these processes. However, many current methodologies rely on complex models that are not easily interpretable by experts. This underscores the need to develop interpretable models that can provide meaningful support in clinical decision-making. When approaching such tasks, humans typically compare the situation at hand to a few key examples and representative cases imprinted in their memory. Using an approach which selects such exemplary cases and grounds its predictions on them could contribute to obtaining high-performing interpretable solutions to such problems. To this end, we evaluate PIVOTTREE, an interpretable prototype selection model, on an oral lesion detection problem. We demonstrate the efficacy of using such method in terms of performance and offer a qualitative and quantitative comparison between exemplary cases and ground-truth prototypes selected by experts.},
+  editor       = {Dino Pedreschi and
+                  Anna Monreale and
+                  Riccardo Guidotti and
+                  Roberto Pellungrini and
+                  Francesca Naretto},
+  title        = {Interpretable Machine Learning for Oral Lesion Diagnosis Through Prototypical
+                  Instances Identification},
+  booktitle    = {Discovery Science - 27th International Conference, {DS} 2024, Pisa,
+                  Italy, October 14-16, 2024, Proceedings, Part {II}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {15244},
+  pages        = {316--331},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-3-031-78980-9\_20},
+  doi          = {10.1007/978-3-031-78980-9\_20},
+  timestamp    = {Mon, 03 Mar 2025 21:02:15 +0100},
+  biburl       = {https://dblp.org/rec/conf/dis/CascioneSGCG24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+  selected={true},
+  bibtex_show={true}
+}
+
 @article{longo2024manifesto,
   author       = {Luca Longo and
                   Mario Brcic and
@@ -72,6 +150,33 @@ title        = {Explainable Artificial Intelligence {(XAI)} 2.0: {A} manifesto o
   timestamp    = {Sun, 04 Aug 2024 19:49:40 +0200},
   biburl       = {https://dblp.org/rec/journals/inffus/LongoBCCCSGHHHJKLMPSSSS24.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}, 
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{BertiABCGP24,
+  abbr={IEEE},
+  author       = {Alessandro Berti and
+                  Giacomo Antonioli and
+                  Anna Bernasconi and
+                  Gianna M. Del Corso and
+                  Riccardo Guidotti and
+                  Alessandro Poggiali},
+  abstract={In quantum computing, state preparation techniques for loading classical data into quantum states can be resource-intensive and error-prone, especially on Noisy Intermediate-Scale Quantum (NISQ) devices. This work applies variational learning to compress quantum circuits for state preparation, transforming resource-heavy techniques into hardware-efficient ansatzes suitable for current quantum architectures. This approach enhances the efficiency of state preparation, broadening the applicability of quantum algorithms. We demonstrate significant reductions in circuit size and depth compared to the explicit circuit of the FF-QRAM state preparation. Additionally, we show that the learned ansatzes perform better in noisy environments, with significant fidelity improvements over the explicit state preparation technique under analysis.},
+  editor       = {Marek Osinski and
+                  Brian La Cour and
+                  Lia Yeh},
+  title        = {Variational Compression of Circuits for State Preparation},
+  booktitle    = {{IEEE} International Conference on Quantum Computing and Engineering,
+                  {QCE} 2024, Montreal, QC, Canada, September 15-20, 2024},
+  pages        = {44--48},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/QCE60285.2024.10250},
+  doi          = {10.1109/QCE60285.2024.10250},
+  timestamp    = {Thu, 01 May 2025 20:25:41 +0200},
+  biburl       = {https://dblp.org/rec/conf/qce/BertiABCGP24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
   selected={true},
   bibtex_show={true}
 }
