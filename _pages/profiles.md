@@ -85,7 +85,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Alessandro Berti</p><br>
-      <p><em>Post-hoc Researcher</em></p>
+      <p><em>PostDoc Researcher</em></p>
 
   - align: right
     image: profiles/Poggiali.jpeg
