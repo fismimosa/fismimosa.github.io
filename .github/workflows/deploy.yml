@@ -101,7 +101,7 @@ jobs:
           server: fismimosa.di.unipi.it
           username: polo2admmimosaftpuser
           password: ${{ secrets.FTP_PASSWORD }}
-          port: 21
+          port: 990
           local-dir: ./_site/
           server-dir: /web/
           security: loose
