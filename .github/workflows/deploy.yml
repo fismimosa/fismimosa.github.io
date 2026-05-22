@@ -102,3 +102,4 @@ jobs:
           port: 21
           local-dir: ./_site/
           server-dir: /web/
+          security: loose
