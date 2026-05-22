@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fismimosa.github.io/sitemap.xml
+Sitemap: https://fismimosa.di.unipi.it/sitemap.xml
