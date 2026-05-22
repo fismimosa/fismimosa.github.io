@@ -6,7 +6,6 @@
       <meta http-equiv="refresh" content="0; url={{ site.url }}{{ page.url }}">
     {% endunless %}
     {% if page.redirect %}
-    {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
       {% elsif page.redirect contains '://' %}
