@@ -93,6 +93,8 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+      - name: Remove FTP sync state
+        run: rm -f ./_site/.ftp-deploy-sync-state.json
       - name: Deploy to Unipi via FTP 🌐
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
