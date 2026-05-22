@@ -93,3 +93,12 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+      - name: Deploy to Unipi via FTP 🌐
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: fismimosa.di.unipi.it
+          username: polo2admmimosaftpuser
+          password: ${{ secrets.FTP_PASSWORD }}
+          port: 21
+          local-dir: ./_site/
+          server-dir: /web/
