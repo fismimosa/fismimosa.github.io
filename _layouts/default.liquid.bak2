@@ -2,6 +2,9 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
+    {% if site.force_redirect and page.redirect != true %}
+      <meta http-equiv="refresh" content="0; url={{ site.url }}{{ page.url }}">
+    {% endif %}
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
