@@ -13,7 +13,7 @@ profile:
     <p>Host Institution: University of Pisa, Italy</p>
     <p>Project duration: 25/03/2024 - 24/03/2029 </p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---

@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 
 profiles:
-  - align: right
+  - align: left
     image: profiles/Guidotti.jpg
     content: info_people/about_riccotti.md
     image_circular: false # crops the image to make it circular
@@ -16,20 +16,12 @@ profiles:
       <p><em>Associate Professor</em></p>
       <p><em>MIMOSA PI</em></p>
 
-  - align: left
+  - align: right
     image: profiles/Cinquini.png
     content: info_people/about_cinquini.md
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Martina Cinquini</p><br>
-      <p><em>MIMOSA Research Fellow</em></p>
-
-  - align: right
-    image: profiles/Marchiorimanerba.png
-    content: info_people/about_marchiori.md
-    image_circular: false # crops the image to make it circular
-    more_info: |
-      <p>Marta Marchiori Manerba</p>
       <p><em>MIMOSA Research Fellow</em></p>
 
   - align: left
@@ -53,7 +45,7 @@ profiles:
     content: info_people/about_setzu.md
     more_info: |
       <p>Mattia Setzu</p><br>
-      <p><em>Associate Professor</em></p>
+      <p><em>Assistant Professor (RTD-A)</em></p>
 
   - align: right
     image: profiles/Spinnato.jpg
@@ -61,7 +53,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: |
       <p>Francesco Spinnato</p><br>
-      <p><em>PostDoc</em></p>
+      <p><em>Assistant Professor (RTD-A)</em></p>
 
   - align: left
     image: profiles/Fedele.png
@@ -94,4 +86,12 @@ profiles:
     more_info: |
       <p>Alessandro Poggiali</p><br>
       <p><em>PhD Student (2nd year)</em></p>
+
+  - align: left
+    image: profiles/Marchiorimanerba.png
+    content: info_people/about_marchiori.md
+    image_circular: false # crops the image to make it circular
+    more_info: |
+      <p>Marta Marchiori Manerba</p>
+      <p><em>External Collaborator</em></p>
 ---
